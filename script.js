@@ -35,3 +35,7 @@ function pasteTele(par){
     navigator.clipboard.writeText("/tp @p "+ x +" "+ y +" " + z );
     console.log(par);
 }
+
+
+
+
